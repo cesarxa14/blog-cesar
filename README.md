@@ -1,27 +1,72 @@
-# Blog
+# 📝 Cesar Blog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
+**Cesar Blog** is a simple blog application built with **Angular 14** that allows users to browse and read posts. It uses `json-server` as a mock backend to serve post data from a local JSON file.
 
-## Development server
+## 🚀 Technologies Used
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- Angular 14
+- Bootstrap 5
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Features
 
-## Build
+- List of blog posts from json-server
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- Filter posts by title using an input box
 
-## Running unit tests
+- View detailed post pages using dynamic routing
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Uses @Input() and @Output() for communication between components
 
-## Running end-to-end tests
+- Responsive UI styled with Bootstrap
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+- Angular animations applied between route transitions
 
-## Further help
+- Redirect to homepage if the route does not exist
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## 📦 Installation & Setup
+
+Follow the steps below to run the project locally:
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/cesarxa14/blog-cesar
+cd blog-cesar
+```
+
+### 2. Install all dependencies 
+
+```bash
+npm install
+```
+
+### 3. Install json-server globally (if not already installed)
+
+```bash
+npm install -g json-server
+```
+
+### 4. Run the mock API server
+
+```bash
+json-server --watch db.json --port 3000
+```
+This will serve data from db.json at:
+http://localhost:3000/posts
+
+### 5. Run the Angular app
+
+```bash
+ng serve -o
+```
+
+
+
+
+
+
+
+
+
+

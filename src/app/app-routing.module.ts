@@ -13,6 +13,11 @@ const routes: Routes = [
     path: 'post/:id',
     component: DetailPostComponent,
     data: { animation: 'DetailPostPage' } 
+  },
+  {
+    path: '**',
+    redirectTo: '',
+    pathMatch: 'full'
   }
 ];
 

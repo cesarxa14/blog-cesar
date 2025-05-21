@@ -1,7 +1,20 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
+import { HomeComponent } from './pages/home/home.component';
+import { DetailPostComponent } from './pages/detail-post/detail-post.component';
 
-const routes: Routes = [];
+const routes: Routes = [
+  {
+    path: '',
+    component: HomeComponent,
+    data: { animation: 'HomePage' }
+  },
+  {
+    path: 'post/:id',
+    component: DetailPostComponent,
+    data: { animation: 'DetailPostPage' } 
+  }
+];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],

@@ -1,0 +1,27 @@
+<div class="container ">
+
+    <a routerLink="/" class="btn btn-sm btn-secondary mt-3">
+        ← Go Home
+    </a>
+    <div class="row" *ngIf="postDetail">
+        <div class="col">
+
+            <div class="card my-2 cursor-pointer">
+                
+                <img src="{{postDetail.url_image}}" 
+                        class="card-img-top img-fluid" alt="..." style="height: 250px; object-fit: contain; background-color: #eee;">
+                <div class="card-body">
+                    <h6 class="card-subtitle mb-2 text-muted text-end">{{postDetail.createdAt}}</h6>
+
+                    <h2 class="card-title">{{postDetail.title}}</h2>
+                    <p class="card-text">{{postDetail.summary}}</p>
+                    <hr>
+                    <p class="card-text">{{postDetail.description}}</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

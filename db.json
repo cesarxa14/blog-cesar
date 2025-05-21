@@ -1,0 +1,44 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Goku",
+      "summary": "Pure Saiyan, brave and a lover of fights. Always striving to improve himself.",
+      "description": "Goku is a Saiyan raised on Earth, known for his big heart and unbreakable spirit. From a young age, he was trained in martial arts and, despite his alien origin, developed a strong sense of justice and compassion for all living beings. His passion for fair fights always drives him to seek greater challenges to surpass himself. Throughout the series, Goku faces numerous threats, from intergalactic invaders to powerful villains that endanger the peace of the universe. His ability to transform into different Super Saiyan states and his innate talent for learning new techniques make him one of the most formidable fighters. But beyond his strength, what truly defines Goku is his innocence, his loyalty to his friends and family, and his genuine desire to protect life and harmony.",
+      "url_image": "https://elcomercio.pe/resizer/v2/6Y2EDIISGFGVFANEVDCR5LCG34.jpg?auth=f58b5c647a09717054d85bb8b9a6bc624bfcb14fe9c60b5246730ea6a513e2b0&width=1200&height=810&quality=90&smart=true",
+      "createdAt": "2025-05-21"
+    },
+    {
+      "id": 2,
+      "title": "Gohan",
+      "summary": "Son of Goku, intelligent and powerful, with great hidden potential.",
+      "description": "Gohan is the eldest son of Goku and Chi-Chi, a young man who combines intelligence, sensitivity, and enormous power potential. Since childhood, he showed a hidden strength that sometimes surpassed even his father’s, though unlike Goku, he wasn’t always interested in being a warrior. His true strength emerges when someone he loves is in danger, showing exceptional courage and determination. Throughout the saga, Gohan evolves from a shy child devoted to his studies into a decisive fighter in critical battles against enemies like Cell and Majin Buu. His personality is more reflective and mature, setting him apart from other Saiyans and showing that strength can go hand in hand with intelligence and empathy.",
+      "url_image": "https://dragonball.guru/wp-content/uploads/2021/03/toppng.com-mystic-gohan-dragon-ball-z-gohan-1021x2859-1-e1617011806816-400x400.png",
+      "createdAt": "2022-11-26"
+    },
+    {
+      "id": 3,
+      "title": "Goten",
+      "summary": "Second son of Goku, cheerful and strong from a young age.",
+      "description": "Goten is the second son of Goku and Chi-Chi, and from a young age, he has proven to be a cheerful, playful, and energetic child. He grew up admiring his older brother and father, and inherited the Saiyan strength that defines his family. Although much younger, he quickly shows great combat skills and the ability to learn powerful techniques like the Super Saiyan transformation. Goten represents innocence and fun in the series, bringing lighthearted and humorous moments, but has also actively participated in important battles alongside his brother and other allies, showing that he is destined to carry on the legacy of the great warriors in his family.",
+      "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlhaK4CdtXdSQFl3IMof3kjqQEyjpCF78sig&s",
+      "createdAt": "2024-12-06"
+    },
+    {
+      "id": 4,
+      "title": "Vegeta",
+      "summary": "Proud prince of the Saiyans, Goku's rival and relentless warrior.",
+      "description": "Vegeta is the proud prince of the Saiyans, a formidable warrior with a strong and competitive character. Initially introduced as an antagonist obsessed with surpassing Goku and proving his superiority, his evolution over time is remarkable: from a cold and arrogant enemy to a valuable ally, a devoted husband, and a protective father. His Saiyan pride fuels his relentless training and his drive to face impossible challenges. Vegeta is known for his intense determination, aggressive fighting style, and his ability to surpass his limits, transforming into increasingly powerful forms. His journey also reveals a human side, where family and honor begin to matter alongside his desire for power.",
+      "url_image": "https://elcomercio.pe/resizer/v2/YVDKLIO6LVBB5BF2CN5DYPEYGA.jpg?auth=2e8fbce24e27f93d0ce05ce51fce205a17ee83c0a3317553ff6397d15fa155d8&width=1200&height=810&quality=90&smart=true",
+      "createdAt": "2025-05-21"
+    },
+    {
+      "id": 5,
+      "title": "Bulma",
+      "summary": "Technology genius, brave and a key figure in every adventure.",
+      "description": "Bulma is one of the brightest minds in the Dragon Ball universe, an exceptional scientist and inventor whose intelligence and creativity have been crucial to many of the group's adventures. From the start of the series, Bulma stands out for her strong personality, independence, and ingenuity in solving problems with advanced inventions and devices. Over time, she becomes a fundamental pillar for her friends, not only because of her scientific talent but also for her bravery and determination in dangerous situations. Bulma has created gadgets that have saved lives, like the Hoi-Poi capsule, and has been essential in locating the dragon balls and other artifacts. Her character development also reveals her human side: a woman who balances family life, her love for Vegeta, and her friendship with the Saiyan warriors.",
+      "url_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReU9lsmsxCxhWWlLIFVxy2x1BfVCCR__uXtw&s",
+      "createdAt": "2025-04-03"
+    }
+  ]
+}
